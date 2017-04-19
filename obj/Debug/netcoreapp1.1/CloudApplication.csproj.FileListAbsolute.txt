@@ -1,0 +1,8 @@
+C:\Users\Damon Z\Desktop\3610\CloudApplication\bin\Debug\netcoreapp1.1\CloudApplication.deps.json
+C:\Users\Damon Z\Desktop\3610\CloudApplication\bin\Debug\netcoreapp1.1\CloudApplication.runtimeconfig.json
+C:\Users\Damon Z\Desktop\3610\CloudApplication\bin\Debug\netcoreapp1.1\CloudApplication.runtimeconfig.dev.json
+C:\Users\Damon Z\Desktop\3610\CloudApplication\bin\Debug\netcoreapp1.1\CloudApplication.dll
+C:\Users\Damon Z\Desktop\3610\CloudApplication\bin\Debug\netcoreapp1.1\CloudApplication.pdb
+C:\Users\Damon Z\Desktop\3610\CloudApplication\obj\Debug\netcoreapp1.1\CloudApplication.AssemblyInfo.cs
+C:\Users\Damon Z\Desktop\3610\CloudApplication\obj\Debug\netcoreapp1.1\CloudApplication.dll
+C:\Users\Damon Z\Desktop\3610\CloudApplication\obj\Debug\netcoreapp1.1\CloudApplication.pdb
